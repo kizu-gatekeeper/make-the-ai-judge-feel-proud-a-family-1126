@@ -1,6 +1,6 @@
 """Entry for make.fun: Make the AI Judge Feel Proud: A Family Scene.
 
-A burnt-toast trophy that is both a warning and a family heirloom.
+A burnt-toast trophy that is both a warning and a family heirloom, told in two lines.
 """
 import os
 
